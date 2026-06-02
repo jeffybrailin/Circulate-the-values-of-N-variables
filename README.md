@@ -18,8 +18,8 @@ End the program.
 ## Program:
 ~~~
 #Program to circulate N values.
-#Developed by: pragatheesvaran AB
-#RegisterNumber: 21003592
+#Developed by: Jeffy Brailin T
+#RegisterNumber: 212223040076
 def circulate(): 
     num1=[10,20,30,40,50,60]
     n=int(input())
